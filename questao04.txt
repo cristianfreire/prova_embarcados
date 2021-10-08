@@ -1,0 +1,4 @@
+A imagem representa a construção de um hardware em conjunto com o software.
+Isso ajuda na compreensão melhor dos projetistas, fazendo um sistema mais livre de falhas,
+tendo uma síntese balanceada de ambos,dando mais desempenho na migração fazendo com que a produção
+fique mais barata e mais rápida.
